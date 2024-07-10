@@ -6,9 +6,7 @@ The student role allows students to browse and comment on alumni posts, and sear
 
 Overall, Alumni Connect is designed to facilitate interaction and engagement between alumni and students, as well as provide valuable insights into alumni success.
 
-Here are some snapshots
 
-<img width="650" alt="image" src="https://user-images.githubusercontent.com/118751863/219826577-737dec66-9a8c-43db-b0fc-1258c17b77dd.png"><img width="650" alt="image" src="https://user-images.githubusercontent.com/118751863/219826642-9c7c3695-a684-472f-9824-8fa4572e1720.png">
 
 
 
